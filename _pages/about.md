@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Ph.D. Student at Virginia Tech
+subtitle: Computer Science Masters Student at Virginia Tech
 
 profile:
   align: right
@@ -16,10 +16,14 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am a PhD student in the Computer Science department at [Virginia Tech](https://cs.vt.edu) under the guidance of my advisor [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/).
+I’m Amartya Dutta, a computer science Master’s student at [Virginia Tech](https://cs.vt.edu), where my current work revolves around large language models and multimodal AI. I’m particularly excited about the intersection of deep learning, computer vision, and language understanding. I'm currently a part of the [Knowledge Guided Machine Learning (KGML) Lab](https://kgml-lab.github.io/) at Virginia Tech where I'm advised by [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/).
 
-Prior to joining the PhD program, I completed my Master's here at VT, during which I had the privilege of interning at [Twitter](https://about.twitter.com/en) as an MLE Intern. My academic journey began with a Bachelor's in Electronics and Communication Engineering from [Manipal Institute of Technology, MAHE, Manipal, India](https://manipal.edu/mit.html). Before pursuing my Master's, I gained invaluable industry experience as a full-time ML engineer at [HP](https://www.hp.com/us-en/home.html), Bangalore.
+In addition to my work in multimodality, I’ve tackled projects like scene graph generation and weakly supervised semantic segmentation, both of which have deepened my understanding of computer vision and AI. My journey started at [IIIT Guwahati](https://www.iiitg.ac.in/), where I completed my Bachelor's in Computer Science and Engineering and worked on machine learning problems, mentored by [Dr. Ferdous Ahmed Barbhuiya](https://www.iiitg.ac.in/computer-science-and-engineering/dr-ferdous-ahmed-barbhuiya-2).
 
-I work at the Science Guided Machine Learning Lab at Virginia Tech where my research is at the intersection of machine learning and established scientific principles. My current work involves investigating cell behaviors and bacteria motility behaviors, employing biological formulations, machine learning, and computer vision techniques with the broader aim of advancing scientific discovery.
+My technical experiences extend beyond research—during internships, I developed interactive AR and VR applications, honing my problem-solving creativity. I’ve worked on augmented reality and virtual reality, which gave me the chance to explore user experience design and secure interactions with virtual environments. 
 
-This academic website serves as a window into my research journey and findings and I'm eager to connect with like-minded individuals. Please feel free to drop me an email!
+When I’m not working on research problems, I’m likely immersed in online gaming, soccer, or music. I’m also very passionate about singing and playing percussion, and I’ve been part of two bands [Kala@VT](https://www.instagram.com/kala_vt/?hl=en) and [Ataasi The Band](https://www.instagram.com/ataasi_the_band/) throughout my academic life.
+
+Feel free to reach out if you’d like to chat about some interesting AI research topics, or just jam on some music!
+
+
