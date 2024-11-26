@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: AmartyaDutta_Resume.pdf
+description: Explore my CV for academic, research, and professional highlights.
 toc:
   sidebar: left
 ---
