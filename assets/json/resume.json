@@ -134,37 +134,5 @@
       "keywords": ["Deep Learning", "Medical Imaging", "Polyp Segmentation"],
       "url": "https://github.com/KatameRonin/KatameRonin/blob/main/AmartyaDutta_BTech_Thesis.pdf"
     }
-  ],
-  "publications": [
-    {
-      "name": "Efficient Detection of Lesions During Endoscopy",
-      "authors": "Dutta, Amartya, Bhattacharjee, Rajat Kanti, Barbhuiya, Ferdous Ahmed",
-      "conference": "Pattern Recognition. ICPR International Workshops and Challenges",
-      "year": 2021,
-      "publisher": "Springer International Publishing",
-      "url": "https://link.springer.com/chapter/10.1007%2F978-3-030-68793-9_24"
-    },
-    {
-      "name": "Predicting Popularity of Images Over 30 Days",
-      "authors": "Dutta, Amartya and Barbhuiya, Ferdous Ahmed",
-      "journal": "arXiv preprint arXiv:2108.01326",
-      "year": 2021,
-      "url": "https://arxiv.org/abs/2108.01326"
-    },
-    {
-      "name": "Learning via Long Short-Term Memory (LSTM) Network for Predicting Strains in Railway Bridge Members Under Train Induced Vibration",
-      "authors": "Dutta, Amartya and Nath, Kamaljyoti",
-      "conference": "ICDSMLA 2020",
-      "year": 2022,
-      "publisher": "Springer Singapore",
-      "url": "https://doi.org/10.1007/978-981-16-3690-5_31"
-    },
-    {
-      "name": "Beyond Discriminative Regions: Saliency Maps as Alternatives to CAMs for Weakly Supervised Semantic Segmentation",
-      "authors": "Maruf, M., Daw, Arka, Dutta, Amartya, Bu, Jie, Karpatne, Anuj",
-      "journal": "arXiv preprint arXiv:2308.11052",
-      "year": 2023,
-      "url": "https://arxiv.org/abs/2308.11052"
-    }
   ]
 }
