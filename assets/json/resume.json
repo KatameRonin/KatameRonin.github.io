@@ -96,11 +96,23 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Assamese",
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "keywords": ["Deep Learning", "Computer Vision", "Scene Graphs", "Large Language Models", "Multimodal AI"]
+      "keywords": ["Deep Learning", "Computer Vision", "Scene Graphs", "Large Language Models (LLM)", "Vision Language Models (VLM)", "Zero Shot Learning"]
     }
   ],
   "projects": [
