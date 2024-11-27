@@ -6,7 +6,7 @@ subtitle: MS CS, Virginia Tech.
 
 profile:
   align: right
-  image: prof.jpg
+  image: prof.png
   image_circular: true # crops the image to make it circular
   more_info: >
 
