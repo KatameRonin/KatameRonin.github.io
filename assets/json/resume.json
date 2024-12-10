@@ -4,8 +4,8 @@
     "label": "Master’s Student in Computer Science",
     "email": "amartya@vt.edu",
     "phone": "+15405585003",
-    "url": "https://www.linkedin.com/in/amartyad/",
-    "summary": "Master’s student in Computer Science at Virginia Tech with expertise in deep learning, computer vision, and multimodal AI. Passionate about research in scene graph generation, semantic segmentation, and large language models.",
+    "url": "https://www.amartyadutta.com",
+    "summary": "Master’s student in Computer Science at Virginia Tech with expertise in deep learning, computer vision, and large language models. Passionate about research in scene graph generation, semantic segmentation, and vision language models.",
     "location": {
       "address": "470 Durham Hall",
       "postalCode": "VA 24061",
@@ -37,14 +37,14 @@
       "position": "Graduate Research Assistant",
       "startDate": "2023-12-01",
       "endDate": "2024-08-01",
-      "summary": "Conducting research on leveraging large multimodal models for scene graph generation."
+      "summary": "Conducting research on leveraging large multimodal models for zero-shot scene graph generation using Vision Language Models (VLMs)."
     },
     {
       "name": "Knowledge Guided Machine Learning Lab, Virginia Tech",
       "position": "Graduate Research Assistant",
       "startDate": "2023-05-01",
       "endDate": "2023-08-01",
-      "summary": "Worked on weakly supervised semantic segmentation and comaparison against Class Activation Maps"
+      "summary": "Worked on weakly supervised semantic segmentation and submitted a paper on saliency maps as alternatives to CAMs."
     }
   ],
   "education": [
@@ -101,7 +101,7 @@
   ],
   "interests": [
     {
-      "keywords": ["Deep Learning", "Computer Vision", "Scene Graphs", "Large Language Models (LLM)", "Vision Language Models (VLM)", "Zero Shot Learning"]
+      "keywords": ["Deep Learning", "Computer Vision", "Large Language Models", "Vision Language Models", "Zero Shot Learning", "Scene Graph Generation"]
     }
   ],
   "projects": [
