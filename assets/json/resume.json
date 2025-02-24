@@ -1,45 +1,54 @@
 {
   "basics": {
     "name": "Amartya Dutta",
-    "email": "amartya@vt.edu",
+    "label": "Master’s Student in Computer Science",
+    "url": "https://katameronin.github.io/",
+    "summary": "Master’s student in Computer Science at Virginia Tech with expertise in deep learning, computer vision, and large language and multimodal models.",
     "location": {
       "city": "Blacksburg",
-      "postalCode": "24060",
       "countryCode": "US",
       "region": "Virginia"
     },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "url": "https://scholar.google.co.in/citations?user=vGlz_MAAAAAJ"
-      },
-      {
-        "network": "GitHub",
-        "url": "https://github.com/KatameRonin"
-      },
-      {
-        "network": "LinkedIn",
-        "url": "https://www.linkedin.com/in/amartyad/"
-      },
-      {
-        "network": "Personal Website",
-        "url": "https://katameronin.github.io/"
-      }
-    ]
-  },
+  "work": [
+    {
+      "name": "Knowledge Guided Machine Learning Lab, Virginia Tech",
+      "position": "Graduate Research Assistant",
+      "startDate": "2022-08-22",
+      "endDate": "2024-12-19",
+      "summary": ". Developed a novel zero-shot approach for Scene Graph Relationship Prediction using VLMs, reframing Predicate Classification as an MCQA task and surpassing trained baselines by at least 7% for balanced relationship prediction. Designed an open-ended relationship generation framework to eliminate answer-choice biases and improve contextual understanding. 2. Conducted comparative analysis of Weakly Supervised Semantic Segmentation approaches, highlighting the superiority of saliency maps over CAMs and introducing stochastic aggregation to enhance saliency effectiveness."
+    },
+    {
+      "name": "Amply",
+      "position": "Augmented Reality Developer Intern",
+      "startDate": "2019-12-3",
+      "endDate": "2020-03-3",
+      "summary": "Developed interactive Augmented Reality (AR) portals using AR-Core in Unity3D, enabling secure interactions with virtual objects to create immersive AR tours for client companies."
+    },
+    {
+      "name": "IIT Guwahati",
+      "position": "Virtual Reality Developer Intern",
+      "startDate": "2019-05-10",
+      "endDate": "2019-07-22",
+      "summary": "Designed and developed an interactive Virtual Reality (VR) tour using Unity3D, focusing on smooth navigation within the virtual environment to enhance user experience (UX) in VR."
+    }
+  ],
   "education": [
     {
       "institution": "Virginia Tech",
-      "studyType": "Master of Science",
+      "location": "Blacksburg, Virginia",
+      "url": "https://cs.vt.edu/",
       "area": "Computer Science",
-      "startDate": "2022-08-01",
+      "studyType": "Master of Science",
+      "startDate": "2022-08-22",
       "endDate": "Present",
       "score": "3.9/4"
     },
     {
       "institution": "Indian Institute of Information Technology, Guwahati",
-      "studyType": "Bachelor of Technology",
+      "location": "Guwahati, Assam",
+      "url": "https://www.iiitg.ac.in/",
       "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
       "startDate": "2017-07-01",
       "endDate": "2021-05-01",
       "score": "8.6/10"
@@ -48,81 +57,62 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": ["Python", "LATEX", "C++", "Shell"]
+      "level": "Advanced",
+      "keywords": ["Python", "LATEX", "C++", "Shell", "HTML"]
     },
     {
       "name": "Frameworks/Tools",
-      "keywords": ["PyTorch", "TensorFlow", "Keras", "Scikit", "OpenCV", "Numpy", "Pandas", "Git", "Unity3D", "vLLM", "LangChain", "FAISS"]
+      "level": "Advanced",
+      "keywords": ["Scikit", "TensorFlow", "PyTorch", "Keras", "OpenCV", "Git", "MySQL", "Unity3D", "Numpy", "Pandas" , "vLLM", "LangChain" , "FAISS"]
     }
   ],
-  "work": [
+  "languages": [
     {
-      "position": "Graduate Research Assistant",
-      "organization": "Virginia Tech",
-      "startDate": "2022-08-01",
-      "endDate": "2024-12-01",
-      "summary": "1. Developed a novel zero-shot approach for Scene Graph Relationship Prediction using VLMs, reframing Predicate Classification as an MCQA task and surpassing trained baselines by at least 7% for balanced relationship prediction. Designed an open-ended relationship generation framework to eliminate answer-choice biases and improve contextual understanding. 2. Conducted comparative analysis of Weakly Supervised Semantic Segmentation approaches, highlighting the superiority of saliency maps over CAMs and introducing stochastic aggregation to enhance saliency effectiveness."
+      "language": "English",
+      "fluency": "Fluent"
     },
     {
-      "position": "Augmented Reality Developer Intern",
-      "organization": "Amply",
-      "startDate": "2019-12-01",
-      "endDate": "2020-03-01",
-      "summary": "Developed interactive Augmented Reality (AR) portals using AR-Core in Unity3D, enabling secure interactions with virtual objects to create immersive AR tours for client companies."
+      "language": "Hindi",
+      "fluency": "Fluent"
     },
     {
-      "position": "Virtual Reality Developer Intern",
-      "organization": "IIT Guwahati",
-      "startDate": "2019-05-01",
-      "endDate": "2019-07-01",
-      "summary": "Designed and developed an interactive Virtual Reality (VR) tour using Unity3D, focusing on smooth navigation within the virtual environment to enhance user experience (UX) in VR."
+      "language": "Bengali",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Assamese",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": ["Deep Learning", "Computer Vision", "Large Language Models", "Vision Language Models", "Zero-Shot Inference", "RAG"]
     }
   ],
   "projects": [
+
     {
       "name": "SEAL-0 (Search Engine Augmented Language)",
-      "summary": "Creating a dataset of complex questions that challenge state-of-the-art LLMs. This project evaluates how these models handle queries requiring up-to-date knowledge and complex reasoning by leveraging search engines for real-time information."
-    },
+      "summary": "Creating a dataset of complex questions that challenge state-of-the-art LLMs. This project evaluates how these models handle queries requiring up-to-date knowledge and complex reasoning by leveraging search engines for real-time information.",
+      "keywords": ["LLM", "Information Retrieval", "RAG", "Dataset"]
+    },   
     {
       "name": "Evaluating Model Reasoning and Hallucinations in Medical LLMs",
       "summary": "Investigates factual error propagation in open-source medical LLMs (e.g., BioMistral, Asclepius) and documents their datasets for transparency. By highlighting performance variations, it aims to guide the development of safer, more reliable language models for healthcare.",
+      "keywords": ["LLM", "Medical Domain", "Hallucinations", "Benchmarking"],
       "url": "https://github.com/abhilash-neog/FactCheckingBioLLMs"
     },
     {
       "name": "Visualizing the Spotify Soundscape",
       "summary": "Visualizes the Spotify Top 50 Tracks of 2023 through an interactive, HTML-based dashboard. Uses D3.js and Plotly.js to enable dynamic, data-driven exploration of each track’s popularity and attributes.",
+      "keywords": ["Data Visualization", "D3.js", "Plotly.js"],
       "url": "https://github.com/KatameRonin/Visualizing-Top-Songs-on-Spotify"
     },
     {
       "name": "Predicting Popularity of Flickr Images (ICIP 2021)",
       "summary": "Predicts how popular a Flickr image will be over 30 days, even before it’s uploaded. Analyzes user and image social features alongside image visuals to model engagement based on scale and shape factors.",
-      "url": "https://github.com/BakaZoro/ICIP_Challenge_2020_Image_Popularity_Prediction"
-    }
-  ],
-  "publications": [
-    {
-      "title": "Beyond Discriminative Regions: Saliency Maps as Alternatives to CAMs.",
-      "authors": "Maruf, M., Daw, A., Dutta, A., Bu, J., Karpatne, A.",
-      "year": 2023,
-      "url": "https://arxiv.org/abs/2308.11052"
-    },
-    {
-      "title": "Learning via LSTM for Railway Bridge Strains.",
-      "authors": "Dutta, A., Nath, K.",
-      "year": 2022,
-      "url": "https://doi.org/10.1007/978-981-16-3690-5_31"
-    },
-    {
-      "title": "Efficient Detection of Lesions During Endoscopy.",
-      "authors": "Dutta, A., Bhattacharjee, R.K., Barbhuiya, F.A.",
-      "year": 2021,
-      "url": "https://link.springer.com/chapter/10.1007%2F978-3-030-68793-9_24"
-    },
-    {
-      "title": "Predicting Popularity of Images Over 30 Days.",
-      "authors": "Dutta, A., Barbhuiya, F.A.",
-      "year": 2021,
-      "url": "https://arxiv.org/abs/2108.01326"
+      "keywords": ["Deep Learning", "Feature Extraction", "Clutering"],
+      "url": "https://github.com/KatameRonin/Flickr_Image_Popularity_Prediction"
     }
   ]
 }
