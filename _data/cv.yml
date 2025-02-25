@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Amartya Dutta
     - name: Label
       value: Master’s Student in Computer Science
@@ -19,12 +19,12 @@
       institution: Virginia Tech, Blacksburg, Virginia, USA
       year: 2022 - Present
       description:
-        - GPA: 3.9/4
+        - GPA: 3.9
     - title: Bachelor of Technology in Computer Science and Engineering
       institution: Indian Institute of Information Technology, Guwahati, India
       year: 2017 - 2021
       description:
-        - GPA: 8.6/10
+        - GPA: 8.6
 
 - title: Experience
   type: time_table
