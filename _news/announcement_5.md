@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:fireworks: Successfully defended my Master's Thesis titled **"Zero-Shot Scene Graph Relationship Prediction using VLMs"** at Virginia Tech! 🎓 Onward to new challenges! 🚀
+:fireworks: Successfully defended my Master's Thesis titled **"Zero-Shot Scene Graph Relationship Prediction using VLMs"** at Virginia Tech! Onward to new challenges! 🚀
