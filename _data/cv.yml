@@ -4,34 +4,39 @@
     - name: Name
       value: Amartya Dutta
     - name: Label
-      value: Master’s Student in Computer Science
+      value: PhD Student in Computer Science
     - name: Website
       value: <a href="https://katameronin.github.io/">Personal Website</a>
     - name: Summary
-      value: Master’s student in Computer Science at Virginia Tech with expertise in deep learning, computer vision, and large language and multimodal models.
+      value: PhD student in Computer Science at Virginia Tech with expertise in deep learning, computer vision, and large language and multimodal models.
     - name: Location
       value: Blacksburg, Virginia, US
 
 - title: Education
   type: time_table
   contents:
+    - title: Doctor of Philosophy (PhD) in Computer Science
+      institution: Virginia Tech, Blacksburg, Virginia, USA
+      year: 2025 - Present
+      description:
+        - GPA: {"GPA"=>3.9}
     - title: Master of Science in Computer Science
       institution: Virginia Tech, Blacksburg, Virginia, USA
-      year: 2022 - Present
+      year: 2022 - 2025
       description:
-        - GPA: 3.9
+        - GPA: {"GPA"=>3.9}
     - title: Bachelor of Technology in Computer Science and Engineering
       institution: Indian Institute of Information Technology, Guwahati, India
       year: 2017 - 2021
       description:
-        - GPA: 8.6
+        - GPA: {"GPA"=>8.6}
 
 - title: Experience
   type: time_table
   contents:
     - title: Graduate Research Assistant
       institution: Knowledge Guided Machine Learning Lab, Virginia Tech
-      year: 2022 - 2024
+      year: 2022 - Present
       description:
         - Developed a novel zero-shot approach for Scene Graph Relationship Prediction using VLMs, reframing Predicate Classification as an MCQA task and surpassing trained baselines by at least 7%.
         - Conducted comparative analysis of Weakly Supervised Semantic Segmentation approaches, introducing stochastic aggregation to enhance saliency effectiveness.
