@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:mortar_board: Excited to start my journey as a Master's student in Computer Science at Virginia Tech! Looking forward to exploring deep learning, computer vision, and large language models. 🚀
+:mortar_board: Excited to start my journey as a Master's student in Computer Science at Virginia Tech! 🚀
