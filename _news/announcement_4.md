@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:brain: Delighted to be a **Graduate Teaching Assistant for CS 5805: Machine Learning** this semester! Excited to assist students in mastering advanced ML techniques. 🚀📚
+:man_teacher: Delighted to be a **Graduate Teaching Assistant for CS 5805: Machine Learning** this semester! Excited to assist students in mastering advanced ML techniques. 🚀📚
