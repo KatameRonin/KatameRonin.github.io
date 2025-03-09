@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:man_teacher: Thrilled to begin my role as a Graduate Teaching Assistant for **CS 2064: Intermediate Programming in Python** at Virginia Tech! Looking forward to helping students strengthen their Python skills. 🐍✨
+:man_teacher: Thrilled to begin my role as a Graduate Teaching Assistant for **CS 2064: Intermediate Programming in Python** 🐍
