@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:man_student: Embarked on my **Ph.D. journey in Computer Science** at Virginia Tech! Excited to push the boundaries of AI, deep learning, and computer vision.
+:man_student: Embarked on my **Ph.D. journey in Computer Science** at Virginia Tech!
