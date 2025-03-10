@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:man_teacher: Excited to take on a new role as a **Graduate Teaching Assistant for CS 5644: Machine Learning with Big Data** 📊
+:man_teacher: **Graduate Teaching Assistant for CS 5644: Machine Learning with Big Data** 📊
