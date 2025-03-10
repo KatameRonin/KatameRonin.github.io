@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:man_teacher: Delighted to be a **Graduate Teaching Assistant for CS 5805: Machine Learning** this semester.
+:man_teacher: **Graduate Teaching Assistant for CS 5805: Machine Learning**.
