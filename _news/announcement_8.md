@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper Open World Scene Graph Generation using Vision Language Models is accepted in CVPR 2025 Workshop, Computer Vision in the Wild.
+Our paper **Open World Scene Graph Generation using Vision Language Models** is accepted in **CVPR 2025 Workshop, Computer Vision in the Wild**.
