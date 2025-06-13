@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Computer Science at [Virginia Tech](https://cs.vt.edu/), where I am co-advised by [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/) and [Dr. T.M. Murali](https://bioinformatics.cs.vt.edu/~murali/). My research focuses on Language Models and multimodal AI. During my Master’s, I was a part of the [KGML Lab](https://kgml-lab.github.io/) and was advised by [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). My thesis explored Vision-Language Models (VLMs) for predicting structured Scene Graph relationships without additional fine-tuning. 
+I am a PhD student in Computer Science at [Virginia Tech](https://cs.vt.edu/), where I am co-advised by [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/) and [Dr. T.M. Murali](https://bioinformatics.cs.vt.edu/~murali/). I am currently working on building foundation models at the [COMPASS Centre](https://compass-pipp.org). My research focuses on Language Models and multimodal AI. During my Master’s, I was a part of the [KGML Lab](https://kgml-lab.github.io/) and was advised by [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/). My thesis explored Vision-Language Models (VLMs) for predicting structured Scene Graph relationships without additional fine-tuning. 
 
 My academic journey began at the [Indian Institute of Information Technology Guwahati (IIIT Guwahati)](https://www.iiitg.ac.in/), where I earned my Bachelor's degree in Computer Science and Engineering under the guidance of [Dr. Ferdous Ahmed Barbhuiya](https://www.iiitg.ac.in/computer-science-and-engineering/dr-ferdous-ahmed-barbhuiya-2). 
 
