@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-_VILLA: Versatile Information Retrieval From Scientific Literature Using Large LAnguage Models_ is out on [arxiv]([https://arxiv.org/abs/2506.08189](https://arxiv.org/abs/2603.23849)).
+_VILLA: Versatile Information Retrieval From Scientific Literature Using Large LAnguage Models_ is out on [arxiv](https://arxiv.org/abs/2603.23849).
